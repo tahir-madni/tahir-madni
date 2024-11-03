@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tahir-madni
 - 👀 I’m interested in developing websites and softwares
-- 🌱 I’m currently learning HTML and CSS
+- 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
 - 📫 Reach me at muhammadtahirsalman0@gmail.com
 
