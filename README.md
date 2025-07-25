@@ -2,7 +2,7 @@
 - 👀 I’m interested in developing websites and softwares
 - 🌱 I’m currently learning Javascript
 - 💞️ I’m looking to collaborate on ...
-- 📫 Reach me at muhammadtahirsalman0@gmail.com
+- 📫 Reach me at muhammadtahirmadni0@gmail.com
 
 <!---
 tahir-madni/tahir-madni is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
